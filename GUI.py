@@ -1,4 +1,5 @@
-                                    # BuzzwordBingo Werkstück A BSRN- Delos Joel Herold, Andreas Kranz, Gracjan Sekora
+#coding=utf-8 
+                                  # BuzzwordBingo Werkstück A BSRN- Delos Joel Herold, Andreas Kranz, Gracjan Sekora
 import curses       #Bibliothek zur grafischen Darstellung im Terminal
 import random       #Bibliothek mit zufallsfunktionen
 import time         #Bibliothek zum verzögern der Programmausführung
